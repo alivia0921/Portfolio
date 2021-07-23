@@ -1,0 +1,39 @@
+h5 {
+    color: rgb(151, 114, 66);
+}
+
+h2{
+    padding-top: 190px;
+}
+
+
+body{
+    background-color: #deb887;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+div{
+    background-image: var(--bs-gradient);
+}
+#namePhoto{
+    margin-top:-10px;
+    height: 500px;
+}
+p{
+    color:blue;
+}
+
+img {
+    width: 450px;
+    height: 350px;
+    margin-top: 50px;
+    /* float: left; */
+}
+
+
+
+.right{
+    text-align: center;
+    /* float: right; */
+}
